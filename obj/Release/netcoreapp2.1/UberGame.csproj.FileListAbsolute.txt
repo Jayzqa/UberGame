@@ -1,0 +1,10 @@
+C:\Users\jayzq\source\repos\UberGame\bin\Release\netcoreapp2.1\UberGame.deps.json
+C:\Users\jayzq\source\repos\UberGame\bin\Release\netcoreapp2.1\UberGame.runtimeconfig.json
+C:\Users\jayzq\source\repos\UberGame\bin\Release\netcoreapp2.1\UberGame.runtimeconfig.dev.json
+C:\Users\jayzq\source\repos\UberGame\bin\Release\netcoreapp2.1\UberGame.dll
+C:\Users\jayzq\source\repos\UberGame\bin\Release\netcoreapp2.1\UberGame.pdb
+C:\Users\jayzq\source\repos\UberGame\obj\Release\netcoreapp2.1\UberGame.csproj.CoreCompileInputs.cache
+C:\Users\jayzq\source\repos\UberGame\obj\Release\netcoreapp2.1\UberGame.AssemblyInfoInputs.cache
+C:\Users\jayzq\source\repos\UberGame\obj\Release\netcoreapp2.1\UberGame.AssemblyInfo.cs
+C:\Users\jayzq\source\repos\UberGame\obj\Release\netcoreapp2.1\UberGame.dll
+C:\Users\jayzq\source\repos\UberGame\obj\Release\netcoreapp2.1\UberGame.pdb
